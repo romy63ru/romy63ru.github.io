@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Home
+title: Alex Romanov
 ---
 
 ## CV
 
-[CV Short](AleksandrRomanovCV2025.pdf)
+[CV Short](AleksandrRomanovCV2025.pdf) 
+[CV Full](AleksandrRomanov2025.pdf)
 
 ## About me
 
