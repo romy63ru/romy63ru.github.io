@@ -7,7 +7,7 @@ title: Alex Romanov
 
 [CV Short](AleksandrRomanovCV2025.pdf) 
 [CV Full](AleksandrRomanov2025.pdf)
-[Online](cv.html)
+[Online](https://romy63ru.github.io/cv.html)
 
 ## Tech Stack
 
