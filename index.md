@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# Alex Romanov
-
 ## CV
 
 [CV Short](AleksandrRomanovCV2025.pdf)
