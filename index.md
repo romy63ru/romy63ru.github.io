@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Alex Romanov
 
 ## CV
