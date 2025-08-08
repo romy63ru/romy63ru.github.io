@@ -22,9 +22,9 @@ retail, publishing, and engineering. Microsoft Most Valuable Professional (MVP) 
 - 13+ years of JavaScript experience (TypeScript, Angular, React)
 - Experiense in designing and architecting diverse system types including server-less, function-based, microservices and hexagonal architecture
 - System design and algorithmic skills
-- Proficient in Visual Studio, Git, DevOps (Kubernetes, Helm)
-- Skilled in debugging local and distributed large systems (e.g. big SharePoint farm)
-- Experience with TDD and automation testing (MSTest, NUnit, XCTest, Pex/Moles)
+- Proficient in Azure DevOps, Kubernetes, Helm, GitHub Actions
+- Skilled in working with local and distributed large systems
+- Experience with TDD and automation testing (MSTest, NUnit, XCTest)
 
 ## Experience
 
@@ -56,7 +56,7 @@ Kubernetes)
 external and internal systems**, microservices/message-driven architecture, implemented scoring
 and risk-management model (C#, .NET 5, EF Core, Angular, Kaka, Kubernetes)
 
-### Oriflame Software, Senior Developer/SoluQon Architect, 2015/2021
+### Oriflame Software, Senior Developer/Soluton Architect, 2015/2021
 
 - Developed architecture and implemented document processing system handling **over 300K
 documents/month, geo-redundant** (C#, Azure Cosmos DB, Blob Storage, ASP.NET)
@@ -78,7 +78,7 @@ SharePoint, C#, WPF, MSSQL Server, Kubernetes)
 - Implemented backend for retail internet store and automaton system for expense reports
 (ASP.NET, WCF, MSSQL Server 2008, EF, Azure Working roles and CDN, NUnit)
 
-### WebZavod, Senior Developer/SoluQon Architect, 2006/2010
+### WebZavod, Senior Developer/Soluton Architect, 2006/2010
 
 - Developed ISV products, integration solutions, and corporate portals (C#, Azure, ASP.NET MVC,
 EF, MSSQL Server, SharePoint 2013/Oﬃce 365)
