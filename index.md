@@ -26,6 +26,7 @@ publishing, and engineering. Microsoft Most Valuable Professional (MVP) from 200
 
 ## Social networks
 
+- [YouTube](https://www.youtube.com/@aleksandr_romanov)
 - [LinkedIn](https://www.linkedin.com/in/alexandrromanov/)
 - [Facebook](https://www.facebook.com/Romy63ru)
 - [Instagramm](https://www.instagram.com/romy63ru/)
